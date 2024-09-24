@@ -7,7 +7,7 @@ function App() {
       <div style={{borderBottom:'1px solid black'}}>
         <div style={{margin: '20px'}} >Header</div>
       </div>
-      <iframe src="http://localhost:3000"></iframe>
+      <iframe src="https://vite-react-liard-gamma.vercel.app/"></iframe>
 
     </div>
   )
