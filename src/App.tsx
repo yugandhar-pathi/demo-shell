@@ -1,5 +1,5 @@
 
-const MICROAPP_URL = import.meta.env.MICROAPP_URL;
+const MICROAPP_URL = import.meta.env.VITE_MICROAPP_URL;
 
 function App() {
 
